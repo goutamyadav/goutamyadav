@@ -18,7 +18,7 @@ An Android developer who loves building real-world apps.
 
 ### 🔥 My Stats:
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=goutamyadav&mode=weekly&theme=dark)
+![GitHub Streak](https://streak-stats.demolab.com/?user=goutamyadav&mode=weekly&theme=dark) ![Coding GIF](https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif)
 
 ![Goutam's GitHub stats](https://github-readme-stats.vercel.app/api?username=goutamyadav&show_icons=true&theme=dark)
 
