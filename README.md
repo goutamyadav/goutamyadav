@@ -30,6 +30,36 @@ An Android developer who loves building real-world apps.
 
 ---
 
+### 🏆 GitHub Trophies
+
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=goutamyadav&theme=darkhub" alt="GitHub Trophies" />
+  </a>
+</p>
+
+---
+
+### 👀 Profile Stats & Visitors
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=goutamyadav&theme=dark" alt="Profile Stats" />
+</p>
+
+<p align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=goutamyadav.goutamyadav" alt="Visitors" />
+</p>
+
+---
+
+## ✍️ Dev Quote
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko" alt="Dev Quote" />
+</p>
+
+---
+
 ## 🌐 Socials:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/goutam-yadav-261b33213)[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:goutamyadav979377@gmail.com)![visitors](https://visitor-badge.laobi.icu/badge?page_id=goutamyadav.goutamyadav)
