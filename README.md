@@ -20,7 +20,7 @@ An Android developer who loves building real-world apps.
 
 ![GitHub Streak](https://streak-stats.demolab.com/?user=goutamyadav&mode=weekly&theme=dark)
 
-![Goutam's GitHub stats](https://github-readme-stats.vercel.app/api?username=goutamyadav&show_icons=true&theme=dark)
+![Goutam's GitHub stats](https://camo.githubusercontent.com/e4ee79e7fdc868eb4d2aa906643ea792328faef79a5c2147ef6754c2d40f62bd/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170693f757365726e616d653d676f7574616d79616461762673686f775f69636f6e733d74727565267468656d653d6461726b)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=goutamyadav&layout=compact&theme=dark)
 
